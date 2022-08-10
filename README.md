@@ -1,2 +1,2 @@
 # JS-busqueda-lineal-o-secuencial
-Created with CodeSandbox
+código en index.js
